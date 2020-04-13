@@ -1,1 +1,1 @@
-# CovidInfoBot
+"# tgcovidbot" 
